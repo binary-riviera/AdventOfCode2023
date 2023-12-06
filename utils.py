@@ -1,5 +1,5 @@
 from itertools import * # useful to have around
-
+from collections import * # ditto
 
 def head(l):
     print(l[0:4])
