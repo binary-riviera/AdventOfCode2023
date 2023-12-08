@@ -1,4 +1,5 @@
 from itertools import * # useful to have around
+from functools import * 
 from collections import * # ditto
 
 def head(l):
